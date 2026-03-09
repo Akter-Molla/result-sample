@@ -1,0 +1,162 @@
+[
+  {
+    "roll": "101",
+    "name": "Aarav Sharma",
+    "class": "LKG",
+    "fatherName": "Rajesh Sharma",
+    "motherName": "Priya Sharma",
+    "marks": { "english": 85, "math": 90, "evs": 80, "drawing": 95 }
+  },
+  {
+    "roll": "102",
+    "name": "Diya Verma",
+    "class": "LKG",
+    "fatherName": "Suresh Verma",
+    "motherName": "Anita Verma",
+    "marks": { "english": 70, "math": 65, "evs": 75, "drawing": 88 }
+  },
+  {
+    "roll": "103",
+    "name": "Rohan Gupta",
+    "class": "UKG",
+    "fatherName": "Vikram Gupta",
+    "motherName": "Neha Gupta",
+    "marks": { "english": 78, "math": 82, "evs": 79, "drawing": 90 }
+  },
+  {
+    "roll": "104",
+    "name": "Ishita Singh",
+    "class": "UKG",
+    "fatherName": "Arjun Singh",
+    "motherName": "Kavita Singh",
+    "marks": { "english": 92, "math": 95, "evs": 90, "drawing": 98 }
+  },
+  {
+    "roll": "105",
+    "name": "Kabir Das",
+    "class": "1",
+    "fatherName": "Manoj Das",
+    "motherName": "Sunita Das",
+    "marks": { "english": 60, "math": 55, "evs": 65, "drawing": 80 }
+  },
+  {
+    "roll": "106",
+    "name": "Sara Khan",
+    "class": "1",
+    "fatherName": "Imran Khan",
+    "motherName": "Farah Khan",
+    "marks": { "english": 88, "math": 85, "evs": 86, "drawing": 90 }
+  },
+  {
+    "roll": "107",
+    "name": "Vivaan Patel",
+    "class": "2",
+    "fatherName": "Deepak Patel",
+    "motherName": "Meera Patel",
+    "marks": { "english": 45, "math": 50, "evs": 55, "drawing": 70 }
+  },
+  {
+    "roll": "108",
+    "name": "Ananya Reddy",
+    "class": "2",
+    "fatherName": "Krishna Reddy",
+    "motherName": "Lakshmi Reddy",
+    "marks": { "english": 98, "math": 99, "evs": 100, "drawing": 100 }
+  },
+  {
+    "roll": "109",
+    "name": "Aditya Joshi",
+    "class": "3",
+    "fatherName": "Sunil Joshi",
+    "motherName": "Rita Joshi",
+    "marks": { "english": 75, "math": 70, "evs": 72, "drawing": 85 }
+  },
+  {
+    "roll": "110",
+    "name": "Pari Mishra",
+    "class": "3",
+    "fatherName": "Rakesh Mishra",
+    "motherName": "Saroj Mishra",
+    "marks": { "english": 82, "math": 80, "evs": 78, "drawing": 88 }
+  },
+  {
+    "roll": "111",
+    "name": "Reyansh Yadav",
+    "class": "4",
+    "fatherName": "Amit Yadav",
+    "motherName": "Pooja Yadav",
+    "marks": { "english": 90, "math": 92, "evs": 88, "drawing": 95 }
+  },
+  {
+    "roll": "112",
+    "name": "Myra Choudhury",
+    "class": "4",
+    "fatherName": "Rahul Choudhury",
+    "motherName": "Divya Choudhury",
+    "marks": { "english": 65, "math": 60, "evs": 68, "drawing": 75 }
+  },
+  {
+    "roll": "113",
+    "name": "Krishna Nair",
+    "class": "5",
+    "fatherName": "Vijay Nair",
+    "motherName": "Latha Nair",
+    "marks": { "english": 55, "math": 50, "evs": 52, "drawing": 60 }
+  },
+  {
+    "roll": "114",
+    "name": "Ayaan Sheikh",
+    "class": "5",
+    "fatherName": "Farukh Sheikh",
+    "motherName": "Zeenat Sheikh",
+    "marks": { "english": 80, "math": 78, "evs": 82, "drawing": 85 }
+  },
+  {
+    "roll": "115",
+    "name": "Riya Malhotra",
+    "class": "LKG",
+    "fatherName": "Sanjay Malhotra",
+    "motherName": "Renu Malhotra",
+    "marks": { "english": 88, "math": 85, "evs": 90, "drawing": 92 }
+  },
+  {
+    "roll": "116",
+    "name": "Aryan Bose",
+    "class": "UKG",
+    "fatherName": "Subhash Bose",
+    "motherName": "Kalyani Bose",
+    "marks": { "english": 70, "math": 72, "evs": 68, "drawing": 80 }
+  },
+  {
+    "roll": "117",
+    "name": "Tanish Kapoor",
+    "class": "1",
+    "fatherName": "Varun Kapoor",
+    "motherName": "Isha Kapoor",
+    "marks": { "english": 95, "math": 98, "evs": 96, "drawing": 99 }
+  },
+  {
+    "roll": "118",
+    "name": "Ivan Sharma",
+    "class": "2",
+    "fatherName": "Rohit Sharma",
+    "motherName": "Nisha Sharma",
+    "marks": { "english": 40, "math": 42, "evs": 45, "drawing": 55 }
+  },
+  {
+    "roll": "119",
+    "name": "Navya Iyer",
+    "class": "3",
+    "fatherName": "Raman Iyer",
+    "motherName": "Padma Iyer",
+    "marks": { "english": 78, "math": 76, "evs": 80, "drawing": 82 }
+  },
+  {
+    "roll": "120",
+    "name": "Dhruv Saxena",
+    "class": "4",
+    "fatherName": "Akash Saxena",
+    "motherName": "Bhavna Saxena",
+    "marks": { "english": 85, "math": 88, "evs": 84, "drawing": 90 }
+  }
+]
