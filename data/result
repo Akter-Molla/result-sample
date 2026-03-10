@@ -21,6 +21,6 @@
     { "year": "2025", "class": "2", "roll": "401", "name": "Adnan Sami", "father": "Kamal Sami", "mother": "Farhana", "marks": { "English": 66, "Math": 68, "Science": 64, "Religion": 70 }, "total_marks": 268, "grade": "B" },
     { "year": "2025", "class": "2", "roll": "402", "name": "Sifa Noor", "father": "Abul Noor", "mother": "Halima", "marks": { "English": 96, "Math": 94, "Science": 95, "Religion": 98 }, "total_marks": 383, "grade": "A+" },
     { "year": "2025", "class": "1", "roll": "501", "name": "Tamim Iqbal", "father": "Rashid Iqbal", "mother": "Salma", "marks": { "English": 40, "Math": 45, "Science": 42, "Religion": 50 }, "total_marks": 177, "grade": "D" },
-    { "year": "2025", "class": "1", "roll": "502", "name": "Junaid Khan", "father": "Yousuf Khan", "mother": "Asma Khan", "marks": { "English": 82, "Math": 80, "Science": 81, "Religion": 85 }, "total_marks": 328, "grade": "A" }
+    { "year": "2025", "class": "1", "roll": "502", "name": "Junaid Khan", "father": "Yousuf Khan", "mother": "Asma Khan", "marks": { "English": 82, "Math": 80, "Science": 81, "Religion": 85,"Bangla": 80 }, "total_marks": 408, "grade": "A" }
   ]
 }
