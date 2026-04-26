@@ -4,5 +4,11 @@
     "description": "Developed and maintained multiple web applications, implemented REST APIs, and optimized database performanceDeveloped and maintained multiple web applications, implemented REST APIs, and optimized database performance.Developed and maintained multiple web applications, implemented REST APIs, and optimized database performance.Developed and maintained multiple web applications, implemented REST APIs, and optimized database performance.Developed and maintained multiple web applications, implemented REST APIs, and optimized database performance..",
     "date": "2024-03-26",
     "type": "urgent"
+  },
+  {
+    "subject": "জরুরী সেবা",
+    "description": "এটা একটি জরুরী নোটিশ বোর্ড" ,
+    "date": "2024-03-26",
+    "type": "important"
   }
 ]
